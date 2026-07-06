@@ -22,11 +22,11 @@ Jetendard는
 파일에서 가져옵니다. 한글 및 CJK 글리프는 Pretendard에서 가져오며, 라틴 문자
 고정폭의 정확히 두 배 폭에 맞춰집니다.
 
-- Zed 에디터 (폰트 사이즈 13.5)
+**Zed 에디터 (폰트 사이즈 13.5)**
 
 ![예시 스크린샷](assets/screeshots/screenshot-2026-07-06-at-3.38.07-pm.png)
 
-- 유니코드 박스 드로잉 예시
+**유니코드 박스 드로잉 예시**
 ![예시 스크린샷](assets/screeshots/screenshot-2026-07-06-at-3.52.25-pm.png)
 
 ## 빌드
